@@ -1,2 +1,0 @@
-# Adeept_Sensor_Kit_for_RPi_Python_Code
-Adeept_Sensor_Kit_for_RPi_Python_Code
